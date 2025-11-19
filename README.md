@@ -14,5 +14,7 @@ Please execute.
 
 ## extendScript for JavaScript
 ```
-
+// Hyperlink alt text.
+hyperlinkAltText = app.activeDocument.hyperlinks[0].keshatHyperlinkAltText;
+app.activeDocument.hyperlinks[0].keshatHyperlinkAltText = "Kohaku"
 ```
