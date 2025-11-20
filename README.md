@@ -18,3 +18,6 @@ Please execute.
 hyperlinkAltText = app.activeDocument.hyperlinks[0].keshatHyperlinkAltText;
 app.activeDocument.hyperlinks[0].keshatHyperlinkAltText = "Kohaku"
 ```
+
+For build instructions, please refer to this guide.<br>
+https://github.com/KohakuNekotarou/KohakuExtendScriptLayoutViewLocation
